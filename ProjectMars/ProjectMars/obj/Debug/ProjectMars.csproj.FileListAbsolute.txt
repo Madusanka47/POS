@@ -1,0 +1,13 @@
+c:\users\ruxian\documents\visual studio 2015\Projects\ProjectMars\ProjectMars\bin\Debug\ProjectMars.exe.config
+c:\users\ruxian\documents\visual studio 2015\Projects\ProjectMars\ProjectMars\obj\Debug\ProjectMars.csprojResolveAssemblyReference.cache
+c:\users\ruxian\documents\visual studio 2015\Projects\ProjectMars\ProjectMars\obj\Debug\ProjectMars.BackOffice.resources
+c:\users\ruxian\documents\visual studio 2015\Projects\ProjectMars\ProjectMars\obj\Debug\ProjectMars.Form1.resources
+c:\users\ruxian\documents\visual studio 2015\Projects\ProjectMars\ProjectMars\obj\Debug\ProjectMars.Properties.Resources.resources
+c:\users\ruxian\documents\visual studio 2015\Projects\ProjectMars\ProjectMars\obj\Debug\ProjectMars.csproj.GenerateResource.Cache
+c:\users\ruxian\documents\visual studio 2015\Projects\ProjectMars\ProjectMars\bin\Debug\ProjectMars.exe
+c:\users\ruxian\documents\visual studio 2015\Projects\ProjectMars\ProjectMars\bin\Debug\ProjectMars.pdb
+c:\users\ruxian\documents\visual studio 2015\Projects\ProjectMars\ProjectMars\obj\Debug\ProjectMars.exe
+c:\users\ruxian\documents\visual studio 2015\Projects\ProjectMars\ProjectMars\obj\Debug\ProjectMars.pdb
+C:\Users\RuXian\Documents\Visual Studio 2015\Projects\ProjectMars\ProjectMars\obj\Debug\ProjectMars.checkout.resources
+C:\Users\RuXian\Documents\Visual Studio 2015\Projects\ProjectMars\ProjectMars\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\RuXian\Documents\Visual Studio 2015\Projects\ProjectMars\ProjectMars\obj\Debug\ProjectMars.ItemWiseShearch.resources
